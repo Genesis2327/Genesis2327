@@ -1,177 +1,144 @@
 <div align="center">
 
-# 👋 GENESIS ABANALES
+# GENESIS ABANALES
 
-### 💻 Associate Developer · Full-Stack Developer
+### Full-Stack Developer · Associate Developer
 
-**Building practical web applications, APIs, and business solutions.**
+Building **web applications, APIs, and business solutions.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Genesis2327-181717?style=for-the-badge\&logo=github)](https://github.com/Genesis2327)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:abanalesgenesis76@gmail.com)
+<br>
 
-📍 Laguna, Philippines
+<a href="mailto:abanalesgenesis76@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-ABANALESGENESIS76%40GMAIL.COM-EA4335?style=flat-square&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/Genesis2327">
+<img src="https://img.shields.io/badge/GITHUB-GENESIS2327-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+
+<img src="https://img.shields.io/badge/LOCATION-LAGUNA%2C%20PH-555555?style=flat-square">
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ABOUT
 
-I'm an **Information Technology graduate** and **Associate Developer** with experience in software development, IT support, and manual QA testing.
+I'm an **Information Technology graduate and Associate Developer** focused on building practical and reliable software.
 
-Currently working on **Auxano**, an employee management and payroll system, where I contribute to **frontend and backend development, API integration, database systems, cloud storage, computer vision, testing, and technical documentation**.
-
-I enjoy turning business requirements into reliable and user-friendly software.
+Currently working on **Auxano**, an employee management and payroll system, contributing to full-stack development, API integration, databases, cloud services, and QA testing.
 
 ---
 
-## 🛠️ Tech Stack
+## TECH STACK
+
+### Languages
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+</p>
 
 ### Frontend
 
 <p>
-<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
-<a href="https://vite.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/></a>
-<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>
-<a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 </p>
 
 ### Backend & Database
 
 <p>
-<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
-<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-<a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
-<a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/></a>
-<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 </p>
 
-### Cloud, DevOps & Tools
+### Cloud & Tools
 
 <p>
-<a href="https://aws.amazon.com/s3/"><img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/></a>
-<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
 </p>
 
 ### AI & Computer Vision
 
 `OpenCV` · `dlib` · `Face Recognition` · `PyTorch`
 
-### APIs & Real-Time
-
-`REST API` · `Axios` · `TanStack React Query` · `Socket.IO` · `WebSockets`
-
 ---
 
-## 🚀 Featured Project
+## 🚀 FEATURED PROJECT
 
-### [Auxano — Employee Management & Payroll System](https://auxano.com.ph/)
+### AUXANO
 
-**DGP Associate and CPAs · 2026 – Present**
+**Employee Management & Payroll System**
 
-A full-stack employee management and payroll platform supporting business and employee operations.
+A full-stack business application supporting employee and administrative operations.
 
-**Contributions**
+**Key Areas**
 
-* 👥 Employee management
-* ⏱️ Timekeeping & attendance
-* 📝 Leave & overtime workflows
-* 💰 Payroll-related workflows
-* ✅ Approval systems
-* 🤖 Face recognition integration
-* ☁️ AWS S3 cloud storage
-* 🔐 Presigned URL file access
-* 🧪 Manual QA testing
-* 📚 Technical documentation
-* 🐳 Docker-based development
+`Employee Management` · `Timekeeping` · `Leave` · `Overtime`
+`Payroll` · `Approvals` · `Face Recognition` · `Cloud Storage`
 
-**Stack**
+**Tech Stack**
 
 `React.js` `Node.js` `Express.js` `MySQL` `Sequelize`
-`Python` `OpenCV` `dlib` `PyTorch` `AWS S3` `Docker`
-
-🌐 [Auxano Web](https://auxano.com.ph/) · 📱 [Auxano App](https://app.auxano.services/)
+`Python` `OpenCV` `PyTorch` `AWS S3` `Docker`
 
 ---
 
-## 🔬 Other Project
+## 🔬 OTHER PROJECT
 
-### Web-Based Optical Management System with Data Analytics
+### WEB-BASED OPTICAL MANAGEMENT SYSTEM
 
-**EverBright Optical Clinic · Capstone Project · 2025**
-
-A full-stack optical clinic management system designed to centralize clinic operations and provide data-driven insights.
+Full-stack optical clinic management system developed as a capstone project.
 
 **Features**
 
-`Inventory Management` · `Point of Sale` · `Dashboards`
-`Analytics` · `Real-Time Notifications` · `Reporting`
+`Inventory` · `POS` · `Analytics` · `Dashboards`
+`Reporting` · `Real-Time Notifications`
 
-**Stack**
+**Tech Stack**
 
-`React` `TypeScript` `Laravel` `PHP` `MySQL`
-`Axios` `TanStack React Query` `Socket.IO` `Recharts`
-
----
-
-## 💡 What I Do
-
-| Area                      | Experience                                     |
-| ------------------------- | ---------------------------------------------- |
-| 💻 Full-Stack Development | React · Node.js · Express · Laravel            |
-| 🔌 API Development        | REST API · Axios · React Query                 |
-| 🗄️ Database              | MySQL · Sequelize · Eloquent                   |
-| ☁️ Cloud                  | AWS S3 · Presigned URLs                        |
-| 🤖 Computer Vision        | Python · OpenCV · dlib · PyTorch               |
-| 📱 Mobile                 | React Native · Expo                            |
-| 🧪 Testing                | Manual QA · Postman · PHPUnit                  |
-| 🐳 DevOps                 | Docker · Git · GitHub                          |
-| 🖥️ IT Support            | Windows Server · Active Directory · Networking |
+`React` `TypeScript` `Laravel` `PHP` `MySQL` `Socket.IO`
 
 ---
 
-## 🎓 Education
+## 💡 DEVELOPMENT FOCUS
 
-**Bachelor of Science in Information Technology**
-
-**Pamantasan ng Cabuyao (University of Cabuyao)**
-2026 · College of Computing Studies
-
----
-
-## 📜 Certifications
-
-* **Python Essentials 2** — Networking Academy
-* **Data Science Essentials with Python** — Networking Academy
-* **Introduction to Cybersecurity** — DICT-ITU DTC Initiative
-* **Google Analytics Certification**
-* **Google Ads Search Certification**
-* **Google Ads Apps Certification**
-* **AI-Powered Performance Ads Certification**
+| Area     | Technologies                      |
+| -------- | --------------------------------- |
+| Frontend | React · TypeScript · React Native |
+| Backend  | Node.js · Express · Laravel       |
+| Database | MySQL · Sequelize · Eloquent      |
+| APIs     | REST API · Axios · React Query    |
+| Cloud    | AWS S3 · Docker                   |
+| AI       | Python · OpenCV · PyTorch         |
+| Testing  | Manual QA · Postman · JIRA        |
 
 ---
 
-## 🌱 Currently Growing
+## 🌱 CURRENTLY LEARNING
 
-`Software Architecture` · `Cloud & DevOps` · `AI` · `Application Security`
+**Software Architecture · Cloud & DevOps · AI · Application Security**
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect
+### Let's Build Something.
 
 <a href="mailto:abanalesgenesis76@gmail.com">
-<img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Genesis2327">
-<img src="https://img.shields.io/badge/GitHub-View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/CONTACT_ME-EA4335?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
 <br><br>
