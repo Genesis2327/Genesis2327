@@ -43,7 +43,7 @@ Full-stack development involving:
 ## 💻 What I Do
 
 **Full-Stack Development** · **REST APIs** · **Database Development**
-**Cloud Integration** · **AI / Computer Vision** · **QA Testing**
+**Cloud Integration** ·  **QA Testing**
 
 ---
 
