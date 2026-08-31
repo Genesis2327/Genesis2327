@@ -1,13 +1,15 @@
 <div align="center">
 
 # Genesis Abanales
-
 ### Full-Stack Developer · Associate Developer
 
 Building **web applications, APIs, and business solutions** with modern technologies.
 
 <br>
 
+<a href="https://genesis-m-abanales.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-GENESIS--M--ABANALES-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
 <a href="https://github.com/Genesis2327">
 <img src="https://img.shields.io/badge/GITHUB-GENESIS2327-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
@@ -23,9 +25,7 @@ Building **web applications, APIs, and business solutions** with modern technolo
 ## 🛠️ Tech Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,php,laravel,mysql,aws,docker,git,github" />
-
 </div>
 
 ---
@@ -35,7 +35,6 @@ Building **web applications, APIs, and business solutions** with modern technolo
 **Auxano — Employee Management & Payroll System**
 
 Full-stack development involving:
-
 `React.js` · `Node.js` · `Express.js` · `MySQL` · `Python` · `AWS S3` · `Docker`
 
 ---
@@ -43,7 +42,13 @@ Full-stack development involving:
 ## 💻 What I Do
 
 **Full-Stack Development** · **REST APIs** · **Database Development**
-**Cloud Integration** ·  **QA Testing**
+**Cloud Integration** · **QA Testing**
+
+---
+
+## 🌐 Portfolio
+
+Check out my work at **[genesis-m-abanales.vercel.app](https://genesis-m-abanales.vercel.app/)**
 
 ---
 
