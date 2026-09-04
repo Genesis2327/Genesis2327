@@ -32,7 +32,7 @@ Building **web applications, APIs, and business solutions** with modern technolo
 
 ## 🚀 Currently Working On
 
-**Auxano — Employee Management & Payroll System**
+**Employee Management & Payroll System**
 
 Full-stack development involving:
 `React.js` · `Node.js` · `Express.js` · `MySQL` · `Python` · `AWS S3` · `Docker`
