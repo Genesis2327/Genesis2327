@@ -1,7 +1,7 @@
 <div align="center">
 
 # Genesis Abanales
-### Full-Stack Developer · Associate Developer
+### Full-Stack Developer · Associate Developer · QA Tester
 
 Building **web applications, APIs, and business solutions** with modern technologies.
 
